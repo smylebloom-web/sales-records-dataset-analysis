@@ -56,3 +56,5 @@ Product Insights: Identifying top-performing categories (e.g., Laptops in Electr
 Cleaned Output: The final processed dataset was exported as sales_records_cleaned.xlsx with 945 high-quality rows for further reporting.
 
 Visualizations: The notebook includes interactive bubble charts using Plotly to visualize the relationship between unit price, profit, and quantity sold.
+
+<img src="path/to/your/image.png" alt="Sales Analysis Chart" width="500">
